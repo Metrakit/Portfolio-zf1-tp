@@ -1,0 +1,13 @@
+{
+    "name": "root/project",
+    "description": "Portfolio",
+    "require": {
+        "zendframework/zendframework1": "~1.12"
+    },
+    "authors": [
+        {
+            "name": "Jordane Jouffroy",
+            "email": "contact@jordane.net"
+        }
+    ]
+}
